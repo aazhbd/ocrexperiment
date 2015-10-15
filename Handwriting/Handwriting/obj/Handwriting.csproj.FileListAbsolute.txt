@@ -1,0 +1,8 @@
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\obj\Debug\Handwriting.exe
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\obj\Debug\Handwriting.pdb
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\bin\Debug\Handwriting.exe
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\bin\Debug\Handwriting.pdb
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\obj\Debug\Handwriting.Form1.resources
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\obj\Debug\Handwriting.Properties.Resources.resources
+E:\Documents\Programming\Dot Net Programs\OCR\Handwriting\Handwriting\obj\Debug\Handwriting.csproj.GenerateResource.Cache

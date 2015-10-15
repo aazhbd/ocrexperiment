@@ -1,0 +1,8 @@
+bin\Debug\Handwriting.exe
+bin\Debug\Handwriting.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Handwriting.Form1.resources
+obj\Debug\Handwriting.Properties.Resources.resources
+obj\Debug\Handwriting.csproj.GenerateResource.Cache
+obj\Debug\Handwriting.exe
+obj\Debug\Handwriting.pdb
